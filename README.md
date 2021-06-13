@@ -8,7 +8,7 @@
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone --depth 1 https://github.com/TasnimAnas/Class_Assignments.git
+git clone --depth 1 https://github.com/<Your Username>/Class_Assignments.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
