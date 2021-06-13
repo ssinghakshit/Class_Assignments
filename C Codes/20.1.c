@@ -12,9 +12,9 @@ int main()
 	scanf("%f",&a);
 	printf("Enter 2nd number: ");
 	scanf("%f",&b);
-	
+
 	float sum = summ(&a,&b);
 	printf("%.2f + %.2f = %.2f\n",a,b,sum);
-	
+
 	return 0;
 }
