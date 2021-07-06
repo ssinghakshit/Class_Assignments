@@ -26,9 +26,9 @@ int main()
 
     if (m == sum)
     {
-        cout << m << " is an armstrong number" << endl;
+        cout << m << " is an strong number" << endl;
         return 0;
     }
-    cout << m << " is not an armstrong number" << endl;
+    cout << m << " is not an strong number" << endl;
     return 0;
 }
