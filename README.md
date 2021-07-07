@@ -1,4 +1,4 @@
-# Solution of C Programming assignments of my class
+# Solution of Programming assignments of my class
 
 
 ## Contributing
