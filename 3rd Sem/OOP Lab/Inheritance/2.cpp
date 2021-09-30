@@ -13,27 +13,27 @@ the display() method on it.
 #include <bits/stdc++.h>
 using namespace std;
 
-class Mother_762
+class Father_762
 {
 public:
     void display_762()
     {
-        cout << "Mother class function" << endl;
+        cout << "Father class function" << endl;
     }
 };
 
-class Daughter_762 : public Mother_762
+class Son_762 : public Father_762
 {
 public:
     void display_762()
     {
-        cout << "Daughter class function" << endl;
+        cout << "Son class function" << endl;
     }
 };
 
 int main()
 {
-    Daughter_762 d;
+    Son_762 d;
     d.display_762();
     return 0;
 }
